@@ -1,3 +1,7 @@
+Tri jednostavna .sh fajla. 
+Broj tri je skripta za evidentiranje poena koje su studenti ostvarili javljanjem na casu.
+
+
 Kod za cronjob koji sam uneo u crontab -e
 0 12 20 * * /home/lazar/Documents/prviPokusaj/prviBash.sh /home/lazar/Documents/prviPokusaj/izvor /home/lazar/Documents/prviPokusaj/destinacija
 
